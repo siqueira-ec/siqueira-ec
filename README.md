@@ -3,12 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siqueira-ec)](https://www.linkedin.com/in/siqueira-ec)
 
 ## `console.log("Hello, world!");` 👋
-My name is *Matheus Siqueira*, and I'm from Brazil (🇧🇷). I've been working as Back-End Developer (mainly with *Node.js* and *PHP*) since 2016. Actually I work as a Freelance Developer. Hope you like my projects. Let's share insights and improve the community together :rocket:
+My name is *Matheus Siqueira*, and I'm from Brazil (🇧🇷). I've been working as Back-End Developer (mainly with *Node.js* and *PHP*) since 2016. Currently I work as a Freelance Developer. Hope you like my projects. Let's share insights and improve the community together :rocket:
+
+<img width="auto" src="https://github.com/siqueira-ec/siqueira-ec/blob/master/cat_coding.gif" align="right">
 
 - 🔭 I’m currently working on personal projects here on GitHub.
 - 🌱 I’m currently learning Java, Kubernetes.
-- ⚡ Technologies: JavaScript, Node.js, React, Docker.
-
+- ⚡ Technologies: PHP, JavaScript, Node.js, React, React Native, Docker.
 
 <!--
 **siqueira-ec/siqueira-ec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
