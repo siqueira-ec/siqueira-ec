@@ -3,7 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siqueira-ec)](https://www.linkedin.com/in/siqueira-ec)
 
 ## `console.log("Hello, world!");` 👋
-My name is *Matheus Siqueira*, and I'm from Brazil (🇧🇷). I've been working as Back-End Developer (mainly with *Node.js* and *PHP*) since 2016. Currently I work as a Freelance Developer. Hope you like my projects. Let's share insights and improve the community together :rocket:
+My name is *Matheus Siqueira*, and I'm from Brazil (🇧🇷). I've been working as Back-End Developer (mainly with *Node.js* and *PHP*) since 2016.
+
+Currently I work as a _BackEnd Developer_ at [LinkApi Solutions](https://www.linkapi.solutions/). Hope you like my projects. Let's share insights and improve the community together :rocket:
 
 <img width="auto" src="https://github.com/siqueira-ec/siqueira-ec/blob/master/cat_coding.gif" align="right">
 
